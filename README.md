@@ -11,3 +11,12 @@ java lahuman.wordcnt.WordcntApplication wordPath contentsPath outputPath
 ~~~ bash
 java lahuman.wordcnt.WordcntApplication c:\data\word.txt c:\data\contents.txt c:\data\output.txt
 ~~~
+
+### output File Sample
+
+~~~ bash
+[A=2][B=1]|#1|AABCCCC
+
+A=2,B=1
+TOTAL COUNT=3
+~~~
