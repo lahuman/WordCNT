@@ -12,6 +12,18 @@ java lahuman.wordcnt.WordcntApplication wordPath contentsPath outputPath
 java lahuman.wordcnt.WordcntApplication c:\data\word.txt c:\data\contents.txt c:\data\output.txt
 ~~~
 
+### Word Sample
+~~~ bash
+A
+B
+~~~
+
+### Contents Sample
+~~~ bash
+AABCCCC
+DDDDFFFGGGHHH
+~~~
+
 ### output File Sample
 
 ~~~ bash
